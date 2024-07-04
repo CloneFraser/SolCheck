@@ -1,2 +1,2 @@
 # SolCheck
-Solana Token Authentification Scan
+Solana Token Authentification Checker - Telegram Bot
